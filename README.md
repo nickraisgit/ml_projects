@@ -1,2 +1,2 @@
-# ml_projects
-Machine Learning and Data Science Projects
+# Nishank's ML Repo
+Machine Learning Projects that I've worked on throughout the years. 
