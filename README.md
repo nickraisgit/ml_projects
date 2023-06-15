@@ -1,2 +1,2 @@
 # ML Repo
-Machine Learning Projects done on throughout the years. 
+My machine learning and computational biology projects done over the past few years. 
